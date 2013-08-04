@@ -1,0 +1,69 @@
+[submodule "bundle/ack.vim"]
+	path = bundle/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/gist-vim"]
+	path = bundle/gist-vim
+	url = https://github.com/mattn/gist-vim.git
+[submodule "bundle/vim-unimpaired"]
+	path = bundle/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/vim-rhubarb"]
+	path = bundle/vim-rhubarb
+	url = git://github.com/tpope/vim-rhubarb.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/webapi-vim"]
+	path = bundle/webapi-vim
+	url = https://github.com/mattn/webapi-vim.git
+[submodule "bundle/gundu.vim"]
+	path = bundle/gundu.vim
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim-golang"]
+	path = bundle/vim-golang
+	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/atom"]
+	path = bundle/atom
+	url = https://github.com/gregsexton/Atom.git
+[submodule "bundle/badwolf"]
+	path = bundle/badwolf
+	url = https://github.com/sjl/badwolf.git
+[submodule "bundle/rust"]
+	path = bundle/rust
+	url = https://github.com/reusee/vim.rust.git
+[submodule "bundle/vim-literate-coffeescript"]
+	path = bundle/vim-literate-coffeescript
+	url = https://github.com/mintplant/vim-literate-coffeescript.git
+[submodule "bundle/EasyGrep"]
+	path = bundle/EasyGrep
+	url = git://github.com/vim-scripts/EasyGrep.git
+[submodule "bundle/tern_for_vim"]
+	path = bundle/tern_for_vim
+	url = git://github.com/marijnh/tern_for_vim.git
+[submodule "bundle/vim-fish"]
+	path = bundle/vim-fish
+	url = git://github.com/aliva/vim-fish.git
+[submodule "bundle/vim-typescript"]
+	path = bundle/vim-typescript
+	url = git://github.com/dmitry-ilyashevich/vim-typescript.git
+[submodule "bundle/unite.vim"]
+	path = bundle/unite.vim
+	url = https://github.com/vim-scripts/unite.vim.git
+[submodule "bundle/vimproc"]
+	path = bundle/vimproc
+	url = https://github.com/Shougo/vimproc.vim.git
