@@ -1,3 +1,5 @@
+" Fix 256 colors support with screen. See above ref: 
+" http://snk.tuxfamily.org/log/vim-256color-bce.html
 :set term=screen-256color
 
 set t_Co=256
