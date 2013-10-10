@@ -24,6 +24,8 @@ Bundle 'gmarik/vundle'
 " original repos on github
 Bundle 'cakebaker/scss-syntax.vim'
 Bundle 'tpope/vim-rails.git'
+
+Bundle 'groenewege/vim-less'
 " Bundle 'tpope/vim-fugitive'
 " Bundle 'Lokaltog/vim-easymotion'
 " Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
