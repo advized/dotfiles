@@ -104,3 +104,6 @@ PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
 # Set TERM to 256 colors
 export TERM=xterm-256color
+
+# activate node version manager
+source ~/.nvm/nvm.sh
